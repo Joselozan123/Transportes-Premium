@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T02:56:41.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="UUCJVkAPOUbihEJEMkrA" version="13.8.1" type="github"><diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">7VvBcpswEP0ajumAZDAcYzdJD22nM5lpp0cVZKCRkUeWY7tfX2EERlacAE6KOlEuYVeLkPY9S9pn7MD5cnfH0Cr7QhNMHOAmOwd+dADwJm4o/pWefeUJoqhypCxPZNDRcZ//wdLpSu8mT/BaCeSUEp6vVGdMiwLHXPEhxuhWDVtQoj51hVKsOe5jRHTvjzzhmfR6rnts+ITzNJOPDn3Z8AvFDymjm0I+zwFwcfirmpeo7kvGrzOU0G3LBW8cOGeU8upquZtjUua2Tlt13+2Z1mbcDBe8yw0BCCPohWHsLtAUBuBK9vCIyEbmYk6LJOc5LeSI+b7O0jbLOb5fobi0t4IJDpxlfEmE5YnLQxpwIq1mpqVB0C9MZk2u5pRQJpoKWuAylDP60CS+jF/Qgt+iZU5KPn3HLEEFkm5JHk+kboZInhbCiMXssehwpqejnh9mHO9aLpmeO0yXmLO9CJGtQc1JSeUa6W2LFzWaWYsSgfQhScW06fkIh7iQiHREB2joOCAgvMzZCgmAgrS8biFWNYrntNvfJ5ATqALpTcdEElokByM5DU1CcqIh+ZVquBwT76qIvJR2xPh1uaGd+G7zcoCHzg62TLkvbFwkJ3cITyteWK3o35jzvbTRhlPhooxnNKUFIp8pXdVcGUaAc2Cv6YbF+Pk9SMwrxfxMjPz84ETZyM9S5sr9AF0XqLSRfTBMEM8f1a3/KYrI3r/RXMzmGEIXi7UY5ymHmkEMo5Wv0eqnOBFZXr0xr0B/XvmRQqsrzzOZV6HdeAZvPBCoGw8Ix9x4IovkYCT9iUlI1iXGC1Bex2+Co3sJjmDk6iwyCke9erY4dsIxDI3C0dbZw6H0AhVKGPljQmkL7Qskk8goKPVK25ZEF5ZE8rZnSyJZMfQoidQ6uwHOzILI0yttK+C8PauiC1llOKkCu1a9NqtgB1bVlVQfWgU1lZr1ymhh0Jva9WoMZnm9meWBSGVWDZ2hxNKlQbtmXcissAuz+mvOosgK/6szlq5V2jXrHzCr/7dkIJycnLOAycQCunJaq2vvUUabqvW6746pogGrhg6EsXnJyAwcu6mhFkddP9PeHRsVx25SqMVR/7YwNApHq4O+/qshXSQr0FNcEBUgnMKTc3pg9HHKaqHjMKunuPAEswwnltVDX59ZXWSr+vDWnVmuC0/XLLNLQKuHjsOsnuKCYWuWMI8/s6nCj79lgjd/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-21T02:57:16.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="MNLxiUZoaGiIP4taJFv7" version="13.8.1" type="github">
+  <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-1" value="Visualización de rutas" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="610" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-2" value="OR" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3wh_0TaLJU2Mye7JC1FR-3" target="3wh_0TaLJU2Mye7JC1FR-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-3" value="&lt;span&gt;Vía internet&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-4" value="Vía satelital" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="780" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-5" value="AND" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1" source="3wh_0TaLJU2Mye7JC1FR-1" target="3wh_0TaLJU2Mye7JC1FR-4">
+          <mxGeometry x="-0.3002" y="13" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-6" value="OR" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1" source="3wh_0TaLJU2Mye7JC1FR-1" target="3wh_0TaLJU2Mye7JC1FR-3">
+          <mxGeometry x="-0.359" y="-11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-7" value="&lt;span&gt;Enseña la ubicación real del bus en el mapa (GMS)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-8" value="Enseña la ubicación de forma real del bus en el mapa (GPS)" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-9" value="&lt;span&gt;Establece la ubicación de forma precisa&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-10" value="Mide la distancia restante del viaje" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-11" value="AND" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1" source="3wh_0TaLJU2Mye7JC1FR-3" target="3wh_0TaLJU2Mye7JC1FR-7">
+          <mxGeometry x="-0.2" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-12" value="AND" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1" source="3wh_0TaLJU2Mye7JC1FR-4" target="3wh_0TaLJU2Mye7JC1FR-8">
+          <mxGeometry x="-0.2614" y="-13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-13" value="AND" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1" source="3wh_0TaLJU2Mye7JC1FR-4" target="3wh_0TaLJU2Mye7JC1FR-9">
+          <mxGeometry x="-0.1294" y="17" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-14" value="AND" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1" source="3wh_0TaLJU2Mye7JC1FR-3" target="3wh_0TaLJU2Mye7JC1FR-10">
+          <mxGeometry x="-0.0891" y="21" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3wh_0TaLJU2Mye7JC1FR-15" value="Enseña la velocidad del bus (KM/H)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
